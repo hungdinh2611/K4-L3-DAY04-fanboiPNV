@@ -62,7 +62,7 @@ Chạy adversarial (12 case, trên bản v3): case_accuracy 0.75 (9/12 PASS), to
 - Quyết định, khó khăn và cách xử lý: Khó nhất là viết case có hành vi kỳ vọng đủ rõ ràng để hệ thống chấm đúng/sai tự động, tránh case mơ hồ dẫn đến kết quả không đáng tin cậy. Quyết định bám sát các loại lỗi thật đã quan sát được ở bộ eval gốc (routing, tham số, boundary xác nhận) để 10 case mới thực sự kiểm tra được hành vi có ý nghĩa.
 - Điều đã học: Một bộ test case tốt cần phản ánh đúng các lỗi thực tế đã gặp, không chỉ viết case dễ đoán kết quả.
 - AI/công cụ đã dùng và cách kiểm tra: Claude dùng để hỗ trợ sinh testcase/ kiểm chứng test case dùng run-eval.py
-- Thời điểm đã tự nộp URL repo chung trên VLearn: 20:55, 15/9/2026
+- Thời điểm đã tự nộp URL repo chung trên VLearn: 00:03, 16/9/2026
 
 ### Hoang Anh Tu — 2A202602643
 
